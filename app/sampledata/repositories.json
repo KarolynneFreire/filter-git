@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 446613309,
+      "name": "AcessiCar",
+      "owner": {
+      "login": "KarolynneFreire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58610519?v=4"
+      },
+      "html_url": "https://github.com/KarolynneFreire/AcessiCar",
+      "description": "Projeto Recode",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 522071051,
+      "name": "app-cartao-visitas",
+      "owner": {
+        "login": "KarolynneFreire",
+        "id": 58610519,
+        "avatar_url": "https://avatars.githubusercontent.com/u/58610519?v=4"
+      },
+      "html_url": "https://github.com/KarolynneFreire/app-cartao-visitas",
+      "description": "Aplicativo que cria e envia um cartão de visitas",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    }
+  ]
+}
